@@ -1,7 +1,7 @@
 {
   "name": "c1-evaluation",
   "version": "1.0.0",
-  "description": "Express app showing routing, middlewares adn loggers.",
+  "description": "Express app showing routing, middlewares and loggers.",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
